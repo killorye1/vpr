@@ -71,9 +71,8 @@
             "Date": "3/11/2013",
             "US viewers": "0.91"
         }
-    ]
-}
-{  "Season 2": [
+    ],
+    "Season 2": [
         {
             "No. overall": "11",
             "No. in season": "1",
@@ -193,9 +192,7 @@
             "Date": "2/25/2014",
             "US viewers": "1.30"
         }
-    ]
-}
-{
+    ],
     "Season 3": [
         {
             "No. overall": "28",
@@ -344,9 +341,7 @@
             "Date": "3/23/2015",
             "US viewers": "0.95"
         }
-    ]
-}
-{
+    ],
     "Season 4": [
         {
             "No. overall": "49",
@@ -516,9 +511,7 @@
             "Date": "4/7/2016",
             "US viewers": "0.75"
         }
-    ]
-}
-{
+    ],
     "Season 5": [
         {
             "No. overall": "73",
@@ -689,6 +682,6 @@
             "US viewers": "1.43"
         }
     ]
-} 
+}
 
 
