@@ -1,687 +1,1505 @@
-{
-
-    "Season 1": [
-        {
-            "No. overall": "1",
-            "No. in season": "1",
-            "Title": "Welcome to SUR",
-            "Date": "1/7/2013",
-            "US viewers": "1.85"
-        },
-        {
-            "No. overall": "2",
-            "No. in season": "2",
-            "Title": "This Is a Break-Up",
-            "Date": "1/14/2013",
-            "US viewers": "1.45"
-        },
-        {
-            "No. overall": "3",
-            "No. in season": "3",
-            "Title": "You Don't Know Jax",
-            "Date": "1/21/2013",
-            "US viewers": "1.46"
-        },
-        {
-            "No. overall": "4",
-            "No. in season": "4",
-            "Title": "Vegas With a Vengeance",
-            "Date": "1/28/2013",
-            "US viewers": "1.67"
-        },
-        {
-            "No. overall": "5",
-            "No. in season": "5",
-            "Title": "I'm Not a Bitch",
-            "Date": "2/4/2013",
-            "US viewers": "1.67"
-        },
-        {
-            "No. overall": "6",
-            "No. in season": "6",
-            "Title": "Caught With Your Trousers Down",
-            "Date": "2/11/2013",
-            "US viewers": "1.53"
-        },
-        {
-            "No. overall": "7",
-            "No. in season": "7",
-            "Title": "In Love With Someone Else",
-            "Date": "2/18/2013",
-            "US viewers": "1.39"
-        },
-        {
-            "No. overall": "8",
-            "No. in season": "8",
-            "Title": "Last Call",
-            "Date": "2/25/2013",
-            "US viewers": "1.45"
-        },
-        {
-            "No. overall": "9",
-            "No. in season": "9",
-            "Title": "Reunion",
-            "Date": "3/4/2013",
-            "US viewers": "1.45"
-        },
-        {
-            "No. overall": "10",
-            "No. in season": "10",
-            "Title": "Reunion Secrets",
-            "Date": "3/11/2013",
-            "US viewers": "0.91"
-        }
-    ],
-    "Season 2": [
-        {
-            "No. overall": "11",
-            "No. in season": "1",
-            "Title": "Tooth or Consequences",
-            "Date": "11/4/2013",
-            "US viewers": "1.19"
-        },
-        {
-            "No. overall": "12",
-            "No. in season": "2",
-            "Title": "Branded",
-            "Date": "11/11/2013",
-            "US viewers": "1.16"
-        },
-        {
-            "No. overall": "13",
-            "No. in season": "3",
-            "Title": "Only the Lonely",
-            "Date": "11/18/2013",
-            "US viewers": "1.40"
-        },
-        {
-            "No. overall": "14",
-            "No. in season": "4",
-            "Title": "Rumors",
-            "Date": "11/25/2013",
-            "US viewers": "1.29"
-        },
-        {
-            "No. overall": "15",
-            "No. in season": "5",
-            "Title": "Surlesque",
-            "Date": "12/2/2013",
-            "US viewers": "1.41"
-        },
-        {
-            "No. overall": "16",
-            "No. in season": "6",
-            "Title": "Lisa's Angels",
-            "Date": "12/9/2013",
-            "US viewers": "1.38"
-        },
-        {
-            "No. overall": "17",
-            "No. in season": "7",
-            "Title": "Addicted",
-            "Date": "12/16/2013",
-            "US viewers": "1.46"
-        },
-        {
-            "No. overall": "18",
-            "No. in season": "8",
-            "Title": "Sherlock Stassi",
-            "Date": "12/23/2013",
-            "US viewers": "1.37"
-        },
-        {
-            "No. overall": "19",
-            "No. in season": "9",
-            "Title": "Rich People Annoy Me",
-            "Date": "12/30/2013",
-            "US viewers": "1.50"
-        },
-        {
-            "No. overall": "20",
-            "No. in season": "10",
-            "Title": "SUR of the Border",
-            "Date": "1/6/2014",
-            "US viewers": "1.49"
-        },
-        {
-            "No. overall": "21",
-            "No. in season": "11",
-            "Title": "Ultimatum",
-            "Date": "1/13/2014",
-            "US viewers": "1.44"
-        },
-        {
-            "No. overall": "22",
-            "No. in season": "12",
-            "Title": "Til Death Do Us Part",
-            "Date": "1/20/2014",
-            "US viewers": "1.53"
-        },
-        {
-            "No. overall": "23",
-            "No. in season": "13",
-            "Title": "Bitch Slap",
-            "Date": "1/27/2014",
-            "US viewers": "1.87"
-        },
-        {
-            "No. overall": "24",
-            "No. in season": "14",
-            "Title": "I Lied",
-            "Date": "2/3/2014",
-            "US viewers": "1.91"
-        },
-        {
-            "No. overall": "25",
-            "No. in season": "15",
-            "Title": "Reunion — Part 1",
-            "Date": "2/10/2014",
-            "US viewers": "2.24"
-        },
-        {
-            "No. overall": "26",
-            "No. in season": "16",
-            "Title": "Reunion — Part 2",
-            "Date": "2/17/2014",
-            "US viewers": "1.78"
-        },
-        {
-            "No. overall": "27",
-            "No. in season": "17",
-            "Title": "Secrets Revealed",
-            "Date": "2/25/2014",
-            "US viewers": "1.30"
-        }
-    ],
-    "Season 3": [
-        {
-            "No. overall": "28",
-            "No. in season": "1",
-            "Title": "Instafight",
-            "Date": "11/3/2014",
-            "US viewers": "1.25"
-        },
-        {
-            "No. overall": "29",
-            "No. in season": "2",
-            "Title": "All Fired Up",
-            "Date": "11/10/2014",
-            "US viewers": "1.37"
-        },
-        {
-            "No. overall": "30",
-            "No. in season": "3",
-            "Title": "Grand Opening and Closure",
-            "Date": "11/17/2014",
-            "US viewers": "1.29"
-        },
-        {
-            "No. overall": "31",
-            "No. in season": "4",
-            "Title": "Jax 'Nose' Best",
-            "Date": "11/24/2014",
-            "US viewers": "1.02"
-        },
-        {
-            "No. overall": "32",
-            "No. in season": "5",
-            "Title": "In the Doghouse",
-            "Date": "12/1/2014",
-            "US viewers": "1.38"
-        },
-        {
-            "No. overall": "33",
-            "No. in season": "6",
-            "Title": "Kiss and Tell",
-            "Date": "12/8/2014",
-            "US viewers": "1.14"
-        },
-        {
-            "No. overall": "34",
-            "No. in season": "7",
-            "Title": "New Girl, Old Grudges",
-            "Date": "12/15/2014",
-            "US viewers": "1.23"
-        },
-        {
-            "No. overall": "35",
-            "No. in season": "8",
-            "Title": "Don't Mind the Jax",
-            "Date": "12/22/2014",
-            "US viewers": "1.18"
-        },
-        {
-            "No. overall": "36",
-            "No. in season": "9",
-            "Title": "What Happens in San Diego",
-            "Date": "12/29/2014",
-            "US viewers": "1.25"
-        },
-        {
-            "No. overall": "37",
-            "No. in season": "10",
-            "Title": "Bachelorette Beach Party",
-            "Date": "1/5/2015",
-            "US viewers": "1.31"
-        },
-        {
-            "No. overall": "38",
-            "No. in season": "11",
-            "Title": "Tears Over Miami",
-            "Date": "1/12/2015",
-            "US viewers": "1.19"
-        },
-        {
-            "No. overall": "39",
-            "No. in season": "12",
-            "Title": "Stand Against Stassi",
-            "Date": "1/19/2015",
-            "US viewers": "1.37"
-        },
-        {
-            "No. overall": "40",
-            "No. in season": "13",
-            "Title": "Miami Vices",
-            "Date": "1/26/2015",
-            "US viewers": "1.58"
-        },
-        {
-            "No. overall": "41",
-            "No. in season": "14",
-            "Title": "Judgement Day",
-            "Date": "2/2/2015",
-            "US viewers": "1.69"
-        },
-        {
-            "No. overall": "42",
-            "No. in season": "15",
-            "Title": "For Better or Worse",
-            "Date": "2/9/2015",
-            "US viewers": "1.58"
-        },
-        {
-            "No. overall": "43",
-            "No. in season": "16",
-            "Title": "Ring on a String",
-            "Date": "2/16/2015",
-            "US viewers": "1.49"
-        },
-        {
-            "No. overall": "44",
-            "No. in season": "17",
-            "Title": "Jax Cracks",
-            "Date": "2/23/2015",
-            "US viewers": "1.48"
-        },
-        {
-            "No. overall": "45",
-            "No. in season": "18",
-            "Title": "Dethroned",
-            "Date": "3/2/2015",
-            "US viewers": "1.55"
-        },
-        {
-            "No. overall": "46",
-            "No. in season": "19",
-            "Title": "Reunion — Part 1",
-            "Date": "3/9/2015",
-            "US viewers": "1.44"
-        },
-        {
-            "No. overall": "47",
-            "No. in season": "20",
-            "Title": "Reunion — Part 2",
-            "Date": "3/16/2015",
-            "US viewers": "1.46"
-        },
-        {
-            "No. overall": "48",
-            "No. in season": "21",
-            "Title": "Secrets Revealed",
-            "Date": "3/23/2015",
-            "US viewers": "0.95"
-        }
-    ],
-    "Season 4": [
-        {
-            "No. overall": "49",
-            "No. in season": "1",
-            "Title": "Playtime's Over",
-            "Date": "11/2/2015",
-            "US viewers": "1.24"
-        },
-        {
-            "No. overall": "50",
-            "No. in season": "2",
-            "Title": "New Blood",
-            "Date": "11/9/2015",
-            "US viewers": "1.14"
-        },
-        {
-            "No. overall": "51",
-            "No. in season": "3",
-            "Title": "Pretty Little Lies",
-            "Date": "11/16/2015",
-            "US viewers": "1.26"
-        },
-        {
-            "No. overall": "52",
-            "No. in season": "4",
-            "Title": "Happily Never After",
-            "Date": "11/23/2015",
-            "US viewers": "1.20"
-        },
-        {
-            "No. overall": "53",
-            "No. in season": "5",
-            "Title": "Cock of the Wall",
-            "Date": "11/30/2015",
-            "US viewers": "1.35"
-        },
-        {
-            "No. overall": "54",
-            "No. in season": "6",
-            "Title": "Love Bites",
-            "Date": "12/7/2015",
-            "US viewers": "1.37"
-        },
-        {
-            "No. overall": "55",
-            "No. in season": "7",
-            "Title": "Spit Take",
-            "Date": "12/14/2015",
-            "US viewers": "1.29"
-        },
-        {
-            "No. overall": "56",
-            "No. in season": "8",
-            "Title": "Dirty Thirty",
-            "Date": "12/21/2015",
-            "US viewers": "1.27"
-        },
-        {
-            "No. overall": "57",
-            "No. in season": "9",
-            "Title": "What Happened in Vegas",
-            "Date": "12/28/2015",
-            "US viewers": "1.53"
-        },
-        {
-            "No. overall": "58",
-            "No. in season": "10",
-            "Title": "No Strings Attached",
-            "Date": "1/4/2016",
-            "US viewers": "1.45"
-        },
-        {
-            "No. overall": "59",
-            "No. in season": "11",
-            "Title": "Fully Engaged",
-            "Date": "1/11/2016",
-            "US viewers": "1.47"
-        },
-        {
-            "No. overall": "60",
-            "No. in season": "12",
-            "Title": "Leis, Liquor and Lies",
-            "Date": "1/18/2016",
-            "US viewers": "1.78"
-        },
-        {
-            "No. overall": "61",
-            "No. in season": "13",
-            "Title": "The Bitch Is Back",
-            "Date": "1/25/2016",
-            "US viewers": "1.60"
-        },
-        {
-            "No. overall": "62",
-            "No. in season": "14",
-            "Title": "Sex, Lies and Stassi's Videotape",
-            "Date": "2/1/2016",
-            "US viewers": "1.53"
-        },
-        {
-            "No. overall": "63",
-            "No. in season": "15",
-            "Title": "Pucker & Pout",
-            "Date": "2/8/2016",
-            "US viewers": "1.52"
-        },
-        {
-            "No. overall": "64",
-            "No. in season": "16",
-            "Title": "Bitch Ghost",
-            "Date": "2/15/2016",
-            "US viewers": "1.45"
-        },
-        {
-            "No. overall": "65",
-            "No. in season": "17",
-            "Title": "Beach, Please",
-            "Date": "2/22/2016",
-            "US viewers": "1.55"
-        },
-        {
-            "No. overall": "66",
-            "No. in season": "18",
-            "Title": "Too Little, Too Late",
-            "Date": "2/29/2016",
-            "US viewers": "1.42"
-        },
-        {
-            "No. overall": "67",
-            "No. in season": "19",
-            "Title": "Just the T.I.P",
-            "Date": "3/7/2016",
-            "US viewers": "1.51"
-        },
-        {
-            "No. overall": "68",
-            "No. in season": "20",
-            "Title": "Push Comes to Shove",
-            "Date": "3/14/2016",
-            "US viewers": "1.44"
-        },
-        {
-            "No. overall": "69",
-            "No. in season": "21",
-            "Title": "Reunion — Part 1",
-            "Date": "3/21/2016",
-            "US viewers": "1.43"
-        },
-        {
-            "No. overall": "70",
-            "No. in season": "22",
-            "Title": "Reunion — Part 2",
-            "Date": "3/28/2016",
-            "US viewers": "1.44"
-        },
-        {
-            "No. overall": "71",
-            "No. in season": "23",
-            "Title": "Reunion — Part 3",
-            "Date": "4/4/2016",
-            "US viewers": "1.18"
-        },
-        {
-            "No. overall": "72",
-            "No. in season": "24",
-            "Title": "Secrets Revealed",
-            "Date": "4/7/2016",
-            "US viewers": "0.75"
-        }
-    ],
-    "Season 5": [
-        {
-            "No. overall": "73",
-            "No. in season": "1",
-            "Title": "Summer Bodies",
-            "Date": "11/7/2016",
-            "US viewers": "1.44"
-        },
-        {
-            "No. overall": "74",
-            "No. in season": "2",
-            "Title": "What Went Down",
-            "Date": "11/14/2016",
-            "US viewers": "1.42"
-        },
-        {
-            "No. overall": "75",
-            "No. in season": "3",
-            "Title": "Call It Like I See It",
-            "Date": "11/21/2016",
-            "US viewers": "1.36"
-        },
-        {
-            "No. overall": "76",
-            "No. in season": "4",
-            "Title": "Thirsty Girls",
-            "Date": "11/28/2016",
-            "US viewers": "1.25"
-        },
-        {
-            "No. overall": "77",
-            "No. in season": "5",
-            "Title": "Cold Feet",
-            "Date": "12/5/2016",
-            "US viewers": "1.60"
-        },
-        {
-            "No. overall": "78",
-            "No. in season": "6",
-            "Title": "Pride",
-            "Date": "12/12/2016",
-            "US viewers": "1.40"
-        },
-        {
-            "No. overall": "79",
-            "No. in season": "7",
-            "Title": "The Sociopath Test",
-            "Date": "12/19/2016",
-            "US viewers": "1.44"
-        },
-        {
-            "No. overall": "80",
-            "No. in season": "8",
-            "Title": "No Show",
-            "Date": "12/26/2016",
-            "US viewers": "1.27"
-        },
-        {
-            "No. overall": "81",
-            "No. in season": "9",
-            "Title": "The Talk of Montauk",
-            "Date": "1/2/2017",
-            "US viewers": "1.21"
-        },
-        {
-            "No. overall": "82",
-            "No. in season": "10",
-            "Title": "Summer House Rules",
-            "Date": "1/9/2017",
-            "US viewers": "1.17"
-        },
-        {
-            "No. overall": "83",
-            "No. in season": "11",
-            "Title": "The D Pic",
-            "Date": "1/16/2017",
-            "US viewers": "1.31"
-        },
-        {
-            "No. overall": "84",
-            "No. in season": "12",
-            "Title": "Jax's Roast",
-            "Date": "1/23/2017",
-            "US viewers": "1.32"
-        },
-        {
-            "No. overall": "85",
-            "No. in season": "13",
-            "Title": "Ambush",
-            "Date": "1/30/2017",
-            "US viewers": "1.41"
-        },
-        {
-            "No. overall": "86",
-            "No. in season": "14",
-            "Title": "Into the Closet",
-            "Date": "2/6/2017",
-            "US viewers": "1.30"
-        },
-        {
-            "No. overall": "87",
-            "No. in season": "15",
-            "Title": "Beads, Beers and Tears",
-            "Date": "2/13/2017",
-            "US viewers": "1.17"
-        },
-        {
-            "No. overall": "88",
-            "No. in season": "16",
-            "Title": "Man Tears and Braziers",
-            "Date": "2/20/2017",
-            "US viewers": "1.46"
-        },
-        {
-            "No. overall": "89",
-            "No. in season": "17",
-            "Title": "Drag Battle",
-            "Date": "2/27/2017",
-            "US viewers": "1.43"
-        },
-        {
-            "No. overall": "90",
-            "No. in season": "18",
-            "Title": "Regrets Only",
-            "Date": "3/6/2017",
-            "US viewers": "1.34"
-        },
-        {
-            "No. overall": "91",
-            "No. in season": "19",
-            "Title": "Triple Trouble",
-            "Date": "3/13/2017",
-            "US viewers": "1.33"
-        },
-        {
-            "No. overall": "92",
-            "No. in season": "20",
-            "Title": "Taco Tuesday, Wedding Wednesday",
-            "Date": "3/20/2017",
-            "US viewers": "1.41"
-        },
-        {
-            "No. overall": "93",
-            "No. in season": "21",
-            "Title": "Introducing Mr. & Mrs. Schwartz",
-            "Date": "3/27/2017",
-            "US viewers": "1.56"
-        },
-        {
-            "No. overall": "94",
-            "No. in season": "22",
-            "Title": "Reunion — Part 1",
-            "Date": "4/3/2017",
-            "US viewers": "1.38"
-        },
-        {
-            "No. overall": "95",
-            "No. in season": "23",
-            "Title": "Reunion — Part 2",
-            "Date": "4/10/2017",
-            "US viewers": "1.26"
-        },
-        {
-            "No. overall": "96",
-            "No. in season": "24",
-            "Title": "Reunion — Part 3",
-            "Date": "4/17/2017",
-            "US viewers": "1.43"
-        }
-    ]
-}
-
-
+[
+ {
+   "Season": 1,
+   "Overall #": 1,
+   "Episode #": 1,
+   "Title": "Welcome to SUR",
+   "Date": "1/7/2013",
+   "US Viewers (million)": "1.85",
+   "Ratings (IMDB)": "6.00"
+ },
+ {
+   "Season": 1,
+   "Overall #": 2,
+   "Episode #": 2,
+   "Title": "This Is a Break-Up",
+   "Date": "1/14/2013",
+   "US Viewers (million)": "1.45",
+   "Ratings (IMDB)": "7.10"
+ },
+ {
+   "Season": 1,
+   "Overall #": 3,
+   "Episode #": 3,
+   "Title": "You Don't Know Jax",
+   "Date": "1/21/2013",
+   "US Viewers (million)": "1.46",
+   "Ratings (IMDB)": "6.60"
+ },
+ {
+   "Season": 1,
+   "Overall #": 4,
+   "Episode #": 4,
+   "Title": "Vegas With a Vengeance",
+   "Date": "1/28/2013",
+   "US Viewers (million)": "1.67",
+   "Ratings (IMDB)": "7.40"
+ },
+ {
+   "Season": 1,
+   "Overall #": 5,
+   "Episode #": 5,
+   "Title": "I'm Not a Bitch",
+   "Date": "2/4/2013",
+   "US Viewers (million)": "1.67",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 1,
+   "Overall #": 6,
+   "Episode #": 6,
+   "Title": "Caught With Your Trousers Down",
+   "Date": "2/11/2013",
+   "US Viewers (million)": "1.53",
+   "Ratings (IMDB)": "7.00"
+ },
+ {
+   "Season": 1,
+   "Overall #": 7,
+   "Episode #": 7,
+   "Title": "In Love With Someone Else",
+   "Date": "2/18/2013",
+   "US Viewers (million)": "1.39",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 1,
+   "Overall #": 8,
+   "Episode #": 8,
+   "Title": "Last Call",
+   "Date": "2/25/2013",
+   "US Viewers (million)": "1.45",
+   "Ratings (IMDB)": "7.10"
+ },
+ {
+   "Season": 1,
+   "Overall #": 9,
+   "Episode #": 9,
+   "Title": "Reunion",
+   "Date": "3/4/2013",
+   "US Viewers (million)": "1.45",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 1,
+   "Overall #": 10,
+   "Episode #": 10,
+   "Title": "Reunion Secrets",
+   "Date": "3/11/2013",
+   "US Viewers (million)": "0.91",
+   "Ratings (IMDB)": "6.70"
+ },
+ {
+   "Season": 2,
+   "Overall #": 11,
+   "Episode #": 1,
+   "Title": "Tooth or Consequences",
+   "Date": "11/4/2013",
+   "US Viewers (million)": "1.19",
+   "Ratings (IMDB)": "7.40"
+ },
+ {
+   "Season": 2,
+   "Overall #": 12,
+   "Episode #": 2,
+   "Title": "Branded",
+   "Date": "11/11/2013",
+   "US Viewers (million)": "1.16",
+   "Ratings (IMDB)": "5.90"
+ },
+ {
+   "Season": 2,
+   "Overall #": 13,
+   "Episode #": 3,
+   "Title": "Only the Lonely",
+   "Date": "11/18/2013",
+   "US Viewers (million)": "1.40",
+   "Ratings (IMDB)": "7.10"
+ },
+ {
+   "Season": 2,
+   "Overall #": 14,
+   "Episode #": 4,
+   "Title": "Rumors",
+   "Date": "11/25/2013",
+   "US Viewers (million)": "1.29",
+   "Ratings (IMDB)": "6.80"
+ },
+ {
+   "Season": 2,
+   "Overall #": 15,
+   "Episode #": 5,
+   "Title": "Surlesque",
+   "Date": "12/2/2013",
+   "US Viewers (million)": "1.41",
+   "Ratings (IMDB)": "7.00"
+ },
+ {
+   "Season": 2,
+   "Overall #": 16,
+   "Episode #": 6,
+   "Title": "Lisa's Angels",
+   "Date": "12/9/2013",
+   "US Viewers (million)": "1.38",
+   "Ratings (IMDB)": "6.80"
+ },
+ {
+   "Season": 2,
+   "Overall #": 17,
+   "Episode #": 7,
+   "Title": "Addicted",
+   "Date": "12/16/2013",
+   "US Viewers (million)": "1.46",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 2,
+   "Overall #": 18,
+   "Episode #": 8,
+   "Title": "Sherlock Stassi",
+   "Date": "12/23/2013",
+   "US Viewers (million)": "1.37",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 2,
+   "Overall #": 19,
+   "Episode #": 9,
+   "Title": "Rich People Annoy Me",
+   "Date": "12/30/2013",
+   "US Viewers (million)": "1.50",
+   "Ratings (IMDB)": "7.10"
+ },
+ {
+   "Season": 2,
+   "Overall #": 20,
+   "Episode #": 10,
+   "Title": "SUR of the Border",
+   "Date": "1/6/2014",
+   "US Viewers (million)": "1.49",
+   "Ratings (IMDB)": "6.40"
+ },
+ {
+   "Season": 2,
+   "Overall #": 21,
+   "Episode #": 11,
+   "Title": "Ultimatum",
+   "Date": "1/13/2014",
+   "US Viewers (million)": "1.44",
+   "Ratings (IMDB)": "7.00"
+ },
+ {
+   "Season": 2,
+   "Overall #": 22,
+   "Episode #": 12,
+   "Title": "Til Death Do Us Part",
+   "Date": "1/20/2014",
+   "US Viewers (million)": "1.53",
+   "Ratings (IMDB)": "6.70"
+ },
+ {
+   "Season": 2,
+   "Overall #": 23,
+   "Episode #": 13,
+   "Title": "Bitch Slap",
+   "Date": "1/27/2014",
+   "US Viewers (million)": "1.87",
+   "Ratings (IMDB)": "8.80"
+ },
+ {
+   "Season": 2,
+   "Overall #": 24,
+   "Episode #": 14,
+   "Title": "I Lied",
+   "Date": "2/3/2014",
+   "US Viewers (million)": "1.91",
+   "Ratings (IMDB)": "8.50"
+ },
+ {
+   "Season": 2,
+   "Overall #": 25,
+   "Episode #": 15,
+   "Title": "Reunion — Part 1",
+   "Date": "2/10/2014",
+   "US Viewers (million)": "2.24",
+   "Ratings (IMDB)": "7.40"
+ },
+ {
+   "Season": 2,
+   "Overall #": 26,
+   "Episode #": 16,
+   "Title": "Reunion — Part 2",
+   "Date": "2/17/2014",
+   "US Viewers (million)": "1.78",
+   "Ratings (IMDB)": "7.60"
+ },
+ {
+   "Season": 2,
+   "Overall #": 27,
+   "Episode #": 17,
+   "Title": "Secrets Revealed",
+   "Date": "2/25/2014",
+   "US Viewers (million)": "1.30",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 3,
+   "Overall #": 28,
+   "Episode #": 1,
+   "Title": "Instafight",
+   "Date": "11/3/2014",
+   "US Viewers (million)": "1.25",
+   "Ratings (IMDB)": "7.80"
+ },
+ {
+   "Season": 3,
+   "Overall #": 29,
+   "Episode #": 2,
+   "Title": "All Fired Up",
+   "Date": "11/10/2014",
+   "US Viewers (million)": "1.37",
+   "Ratings (IMDB)": "7.80"
+ },
+ {
+   "Season": 3,
+   "Overall #": 30,
+   "Episode #": 3,
+   "Title": "Grand Opening and Closure",
+   "Date": "11/17/2014",
+   "US Viewers (million)": "1.29",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 3,
+   "Overall #": 31,
+   "Episode #": 4,
+   "Title": "Jax 'Nose' Best",
+   "Date": "11/24/2014",
+   "US Viewers (million)": "1.02",
+   "Ratings (IMDB)": "7.50"
+ },
+ {
+   "Season": 3,
+   "Overall #": 32,
+   "Episode #": 5,
+   "Title": "In the Doghouse",
+   "Date": "12/1/2014",
+   "US Viewers (million)": "1.38",
+   "Ratings (IMDB)": "7.50"
+ },
+ {
+   "Season": 3,
+   "Overall #": 33,
+   "Episode #": 6,
+   "Title": "Kiss and Tell",
+   "Date": "12/8/2014",
+   "US Viewers (million)": "1.14",
+   "Ratings (IMDB)": "7.90"
+ },
+ {
+   "Season": 3,
+   "Overall #": 34,
+   "Episode #": 7,
+   "Title": "New Girl, Old Grudges",
+   "Date": "12/15/2014",
+   "US Viewers (million)": "1.23",
+   "Ratings (IMDB)": "7.40"
+ },
+ {
+   "Season": 3,
+   "Overall #": 35,
+   "Episode #": 8,
+   "Title": "Don't Mind the Jax",
+   "Date": "12/22/2014",
+   "US Viewers (million)": "1.18",
+   "Ratings (IMDB)": "7.60"
+ },
+ {
+   "Season": 3,
+   "Overall #": 36,
+   "Episode #": 9,
+   "Title": "What Happens in San Diego",
+   "Date": "12/29/2014",
+   "US Viewers (million)": "1.25",
+   "Ratings (IMDB)": "7.60"
+ },
+ {
+   "Season": 3,
+   "Overall #": 37,
+   "Episode #": 10,
+   "Title": "Bachelorette Beach Party",
+   "Date": "1/5/2015",
+   "US Viewers (million)": "1.31",
+   "Ratings (IMDB)": "7.70"
+ },
+ {
+   "Season": 3,
+   "Overall #": 38,
+   "Episode #": 11,
+   "Title": "Tears Over Miami",
+   "Date": "1/12/2015",
+   "US Viewers (million)": "1.19",
+   "Ratings (IMDB)": "8.20"
+ },
+ {
+   "Season": 3,
+   "Overall #": 39,
+   "Episode #": 12,
+   "Title": "Stand Against Stassi",
+   "Date": "1/19/2015",
+   "US Viewers (million)": "1.37",
+   "Ratings (IMDB)": "8.50"
+ },
+ {
+   "Season": 3,
+   "Overall #": 40,
+   "Episode #": 13,
+   "Title": "Miami Vices",
+   "Date": "1/26/2015",
+   "US Viewers (million)": "1.58",
+   "Ratings (IMDB)": "7.60"
+ },
+ {
+   "Season": 3,
+   "Overall #": 41,
+   "Episode #": 14,
+   "Title": "Judgement Day",
+   "Date": "2/2/2015",
+   "US Viewers (million)": "1.69",
+   "Ratings (IMDB)": "6.90"
+ },
+ {
+   "Season": 3,
+   "Overall #": 42,
+   "Episode #": 15,
+   "Title": "For Better or Worse",
+   "Date": "2/9/2015",
+   "US Viewers (million)": "1.58",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 3,
+   "Overall #": 43,
+   "Episode #": 16,
+   "Title": "Ring on a String",
+   "Date": "2/16/2015",
+   "US Viewers (million)": "1.49",
+   "Ratings (IMDB)": "7.80"
+ },
+ {
+   "Season": 3,
+   "Overall #": 44,
+   "Episode #": 17,
+   "Title": "Jax Cracks",
+   "Date": "2/23/2015",
+   "US Viewers (million)": "1.48",
+   "Ratings (IMDB)": "8.20"
+ },
+ {
+   "Season": 3,
+   "Overall #": 45,
+   "Episode #": 18,
+   "Title": "Dethroned",
+   "Date": "3/2/2015",
+   "US Viewers (million)": "1.55",
+   "Ratings (IMDB)": "8.20"
+ },
+ {
+   "Season": 3,
+   "Overall #": 46,
+   "Episode #": 19,
+   "Title": "Reunion — Part 1",
+   "Date": "3/9/2015",
+   "US Viewers (million)": "1.44",
+   "Ratings (IMDB)": "7.50"
+ },
+ {
+   "Season": 3,
+   "Overall #": 47,
+   "Episode #": 20,
+   "Title": "Reunion — Part 2",
+   "Date": "3/16/2015",
+   "US Viewers (million)": "1.46",
+   "Ratings (IMDB)": "7.90"
+ },
+ {
+   "Season": 3,
+   "Overall #": 48,
+   "Episode #": 21,
+   "Title": "Secrets Revealed",
+   "Date": "3/23/2015",
+   "US Viewers (million)": "0.95",
+   "Ratings (IMDB)": "7.70"
+ },
+ {
+   "Season": 4,
+   "Overall #": 49,
+   "Episode #": 1,
+   "Title": "Playtime's Over",
+   "Date": "11/2/2015",
+   "US Viewers (million)": "1.24",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 4,
+   "Overall #": 50,
+   "Episode #": 2,
+   "Title": "New Blood",
+   "Date": "11/9/2015",
+   "US Viewers (million)": "1.14",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 4,
+   "Overall #": 51,
+   "Episode #": 3,
+   "Title": "Pretty Little Lies",
+   "Date": "11/16/2015",
+   "US Viewers (million)": "1.26",
+   "Ratings (IMDB)": "7.60"
+ },
+ {
+   "Season": 4,
+   "Overall #": 52,
+   "Episode #": 4,
+   "Title": "Happily Never After",
+   "Date": "11/23/2015",
+   "US Viewers (million)": "1.20",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 4,
+   "Overall #": 53,
+   "Episode #": 5,
+   "Title": "Cock of the Wall",
+   "Date": "11/30/2015",
+   "US Viewers (million)": "1.35",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 4,
+   "Overall #": 54,
+   "Episode #": 6,
+   "Title": "Love Bites",
+   "Date": "12/7/2015",
+   "US Viewers (million)": "1.37",
+   "Ratings (IMDB)": "8.20"
+ },
+ {
+   "Season": 4,
+   "Overall #": 55,
+   "Episode #": 7,
+   "Title": "Spit Take",
+   "Date": "12/14/2015",
+   "US Viewers (million)": "1.29",
+   "Ratings (IMDB)": "8.20"
+ },
+ {
+   "Season": 4,
+   "Overall #": 56,
+   "Episode #": 8,
+   "Title": "Dirty Thirty",
+   "Date": "12/21/2015",
+   "US Viewers (million)": "1.27",
+   "Ratings (IMDB)": "8.10"
+ },
+ {
+   "Season": 4,
+   "Overall #": 57,
+   "Episode #": 9,
+   "Title": "What Happened in Vegas",
+   "Date": "12/28/2015",
+   "US Viewers (million)": "1.53",
+   "Ratings (IMDB)": "8.10"
+ },
+ {
+   "Season": 4,
+   "Overall #": 58,
+   "Episode #": 10,
+   "Title": "No Strings Attached",
+   "Date": "1/4/2016",
+   "US Viewers (million)": "1.45",
+   "Ratings (IMDB)": "8.10"
+ },
+ {
+   "Season": 4,
+   "Overall #": 59,
+   "Episode #": 11,
+   "Title": "Fully Engaged",
+   "Date": "1/11/2016",
+   "US Viewers (million)": "1.47",
+   "Ratings (IMDB)": "8.40"
+ },
+ {
+   "Season": 4,
+   "Overall #": 60,
+   "Episode #": 12,
+   "Title": "Leis, Liquor and Lies",
+   "Date": "1/18/2016",
+   "US Viewers (million)": "1.78",
+   "Ratings (IMDB)": "8.50"
+ },
+ {
+   "Season": 4,
+   "Overall #": 61,
+   "Episode #": 13,
+   "Title": "The Bitch Is Back",
+   "Date": "1/25/2016",
+   "US Viewers (million)": "1.60",
+   "Ratings (IMDB)": "8.60"
+ },
+ {
+   "Season": 4,
+   "Overall #": 62,
+   "Episode #": 14,
+   "Title": "Sex, Lies and Stassi's Videotape",
+   "Date": "2/1/2016",
+   "US Viewers (million)": "1.53",
+   "Ratings (IMDB)": "8.10"
+ },
+ {
+   "Season": 4,
+   "Overall #": 63,
+   "Episode #": 15,
+   "Title": "Pucker & Pout",
+   "Date": "2/8/2016",
+   "US Viewers (million)": "1.52",
+   "Ratings (IMDB)": "8.20"
+ },
+ {
+   "Season": 4,
+   "Overall #": 64,
+   "Episode #": 16,
+   "Title": "Bitch Ghost",
+   "Date": "2/15/2016",
+   "US Viewers (million)": "1.45",
+   "Ratings (IMDB)": "8.60"
+ },
+ {
+   "Season": 4,
+   "Overall #": 65,
+   "Episode #": 17,
+   "Title": "Beach, Please",
+   "Date": "2/22/2016",
+   "US Viewers (million)": "1.55",
+   "Ratings (IMDB)": "8.10"
+ },
+ {
+   "Season": 4,
+   "Overall #": 66,
+   "Episode #": 18,
+   "Title": "Too Little, Too Late",
+   "Date": "2/29/2016",
+   "US Viewers (million)": "1.42",
+   "Ratings (IMDB)": "8.10"
+ },
+ {
+   "Season": 4,
+   "Overall #": 67,
+   "Episode #": 19,
+   "Title": "Just the T.I.P",
+   "Date": "3/7/2016",
+   "US Viewers (million)": "1.51",
+   "Ratings (IMDB)": "8.40"
+ },
+ {
+   "Season": 4,
+   "Overall #": 68,
+   "Episode #": 20,
+   "Title": "Push Comes to Shove",
+   "Date": "3/14/2016",
+   "US Viewers (million)": "1.44",
+   "Ratings (IMDB)": "7.70"
+ },
+ {
+   "Season": 4,
+   "Overall #": 69,
+   "Episode #": 21,
+   "Title": "Reunion — Part 1",
+   "Date": "3/21/2016",
+   "US Viewers (million)": "1.43",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 4,
+   "Overall #": 70,
+   "Episode #": 22,
+   "Title": "Reunion — Part 2",
+   "Date": "3/28/2016",
+   "US Viewers (million)": "1.44",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 4,
+   "Overall #": 71,
+   "Episode #": 23,
+   "Title": "Reunion — Part 3",
+   "Date": "4/4/2016",
+   "US Viewers (million)": "1.18",
+   "Ratings (IMDB)": "7.30"
+ },
+ {
+   "Season": 4,
+   "Overall #": 72,
+   "Episode #": 24,
+   "Title": "Secrets Revealed",
+   "Date": "4/7/2016",
+   "US Viewers (million)": "0.75",
+   "Ratings (IMDB)": "NA"
+ },
+ {
+   "Season": 5,
+   "Overall #": 73,
+   "Episode #": 1,
+   "Title": "Summer Bodies",
+   "Date": "11/7/2016",
+   "US Viewers (million)": "1.44",
+   "Ratings (IMDB)": "7.5"
+ },
+ {
+   "Season": 5,
+   "Overall #": 74,
+   "Episode #": 2,
+   "Title": "What Went Down",
+   "Date": "11/14/2016",
+   "US Viewers (million)": "1.42",
+   "Ratings (IMDB)": "8.10"
+ },
+ {
+   "Season": 5,
+   "Overall #": 75,
+   "Episode #": 3,
+   "Title": "Call It Like I See It",
+   "Date": "11/21/2016",
+   "US Viewers (million)": "1.36",
+   "Ratings (IMDB)": "7.80"
+ },
+ {
+   "Season": 5,
+   "Overall #": 76,
+   "Episode #": 4,
+   "Title": "Thirsty Girls",
+   "Date": "11/28/2016",
+   "US Viewers (million)": "1.25",
+   "Ratings (IMDB)": "7.80"
+ },
+ {
+   "Season": 5,
+   "Overall #": 77,
+   "Episode #": 5,
+   "Title": "Cold Feet",
+   "Date": "12/5/2016",
+   "US Viewers (million)": "1.60",
+   "Ratings (IMDB)": "8.50"
+ },
+ {
+   "Season": 5,
+   "Overall #": 78,
+   "Episode #": 6,
+   "Title": "Pride",
+   "Date": "12/12/2016",
+   "US Viewers (million)": "1.40",
+   "Ratings (IMDB)": "8.50"
+ },
+ {
+   "Season": 5,
+   "Overall #": 79,
+   "Episode #": 7,
+   "Title": "The Sociopath Test",
+   "Date": "12/19/2016",
+   "US Viewers (million)": "1.44",
+   "Ratings (IMDB)": "8.50"
+ },
+ {
+   "Season": 5,
+   "Overall #": 80,
+   "Episode #": 8,
+   "Title": "No Show",
+   "Date": "12/26/2016",
+   "US Viewers (million)": "1.27",
+   "Ratings (IMDB)": "8.40"
+ },
+ {
+   "Season": 5,
+   "Overall #": 81,
+   "Episode #": 9,
+   "Title": "The Talk of Montauk",
+   "Date": "1/2/2017",
+   "US Viewers (million)": "1.21",
+   "Ratings (IMDB)": "8.30"
+ },
+ {
+   "Season": 5,
+   "Overall #": 82,
+   "Episode #": 10,
+   "Title": "Summer House Rules",
+   "Date": "1/9/2017",
+   "US Viewers (million)": "1.17",
+   "Ratings (IMDB)": "7.60"
+ },
+ {
+   "Season": 5,
+   "Overall #": 83,
+   "Episode #": 11,
+   "Title": "The D Pic",
+   "Date": "1/16/2017",
+   "US Viewers (million)": "1.31",
+   "Ratings (IMDB)": "8.20"
+ },
+ {
+   "Season": 5,
+   "Overall #": 84,
+   "Episode #": 12,
+   "Title": "Jax's Roast",
+   "Date": "1/23/2017",
+   "US Viewers (million)": "1.32",
+   "Ratings (IMDB)": "8.20"
+ },
+ {
+   "Season": 5,
+   "Overall #": 85,
+   "Episode #": 13,
+   "Title": "Ambush",
+   "Date": "1/30/2017",
+   "US Viewers (million)": "1.41",
+   "Ratings (IMDB)": "8.2"
+ },
+ {
+   "Season": 5,
+   "Overall #": 86,
+   "Episode #": 14,
+   "Title": "Into the Closet",
+   "Date": "2/6/2017",
+   "US Viewers (million)": "1.30",
+   "Ratings (IMDB)": "8.10"
+ },
+ {
+   "Season": 5,
+   "Overall #": 87,
+   "Episode #": 15,
+   "Title": "Beads, Beers and Tears",
+   "Date": "2/13/2017",
+   "US Viewers (million)": "1.17",
+   "Ratings (IMDB)": "8.10"
+ },
+ {
+   "Season": 5,
+   "Overall #": 88,
+   "Episode #": 16,
+   "Title": "Man Tears and Braziers",
+   "Date": "2/20/2017",
+   "US Viewers (million)": "1.46",
+   "Ratings (IMDB)": "7.90"
+ },
+ {
+   "Season": 5,
+   "Overall #": 89,
+   "Episode #": 17,
+   "Title": "Drag Battle",
+   "Date": "2/27/2017",
+   "US Viewers (million)": "1.43",
+   "Ratings (IMDB)": "8.10"
+ },
+ {
+   "Season": 5,
+   "Overall #": 90,
+   "Episode #": 18,
+   "Title": "Regrets Only ",
+   "Date": "3/6/2017",
+   "US Viewers (million)": "1.34",
+   "Ratings (IMDB)": "8.40"
+ },
+ {
+   "Season": 5,
+   "Overall #": 91,
+   "Episode #": 19,
+   "Title": "Triple Trouble",
+   "Date": "3/13/2017",
+   "US Viewers (million)": "1.33",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 5,
+   "Overall #": 92,
+   "Episode #": 20,
+   "Title": "Taco Tuesday, Wedding Wednesday",
+   "Date": "3/20/2017",
+   "US Viewers (million)": "1.41",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 5,
+   "Overall #": 93,
+   "Episode #": 21,
+   "Title": "Introducing Mr. & Mrs. Shwartz",
+   "Date": "3/27/2017",
+   "US Viewers (million)": "1.56",
+   "Ratings (IMDB)": "8.50"
+ },
+ {
+   "Season": 5,
+   "Overall #": 94,
+   "Episode #": 22,
+   "Title": "Reunion Part 1",
+   "Date": "4/3/2017",
+   "US Viewers (million)": "1.38",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 5,
+   "Overall #": 95,
+   "Episode #": 23,
+   "Title": "Reunion Part 2",
+   "Date": "4/10/2017",
+   "US Viewers (million)": "1.26",
+   "Ratings (IMDB)": "7.90"
+ },
+ {
+   "Season": 5,
+   "Overall #": 96,
+   "Episode #": 24,
+   "Title": "Reunion Part 3",
+   "Date": "4/17/2017",
+   "US Viewers (million)": "1.43",
+   "Ratings (IMDB)": "7.00"
+ },
+ {
+   "Season": 6,
+   "Overall #": 97,
+   "Episode #": 1,
+   "Title": "Masquerade",
+   "Date": "12/4/2017",
+   "US Viewers (million)": "1.39",
+   "Ratings (IMDB)": "7.50"
+ },
+ {
+   "Season": 6,
+   "Overall #": 98,
+   "Episode #": 2,
+   "Title": "UnFaithful",
+   "Date": "12/11/2017",
+   "US Viewers (million)": "1.50",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 6,
+   "Overall #": 99,
+   "Episode #": 3,
+   "Title": "Back in the Saddle",
+   "Date": "12/18/2017",
+   "US Viewers (million)": "1.28",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 6,
+   "Overall #": 100,
+   "Episode #": 4,
+   "Title": "Absinthe-Minded",
+   "Date": "1/1/2018",
+   "US Viewers (million)": "1.28",
+   "Ratings (IMDB)": "7.80"
+ },
+ {
+   "Season": 6,
+   "Overall #": 101,
+   "Episode #": 5,
+   "Title": "Sex, Lies and Audiotape",
+   "Date": "1/8/2018",
+   "US Viewers (million)": "1.53",
+   "Ratings (IMDB)": "7.90"
+ },
+ {
+   "Season": 6,
+   "Overall #": 102,
+   "Episode #": 6,
+   "Title": "See You Next Tuesday",
+   "Date": "1/15/2017",
+   "US Viewers (million)": "1.48",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 6,
+   "Overall #": 103,
+   "Episode #": 7,
+   "Title": "It's Not About the Pasta",
+   "Date": "1/22/2017",
+   "US Viewers (million)": "1.64",
+   "Ratings (IMDB)": "7.90"
+ },
+ {
+   "Season": 6,
+   "Overall #": 104,
+   "Episode #": 8,
+   "Title": "Best Mates",
+   "Date": "1/29/2018",
+   "US Viewers (million)": "1.54",
+   "Ratings (IMDB)": "7.90"
+ },
+ {
+   "Season": 6,
+   "Overall #": 105,
+   "Episode #": 9,
+   "Title": "Call Me Jason",
+   "Date": "2/5/2018",
+   "US Viewers (million)": "1.48",
+   "Ratings (IMDB)": "7.90"
+ },
+ {
+   "Season": 6,
+   "Overall #": 106,
+   "Episode #": 10,
+   "Title": "Screams and Queens",
+   "Date": "2/12/2018",
+   "US Viewers (million)": "1.35",
+   "Ratings (IMDB)": "7.50"
+ },
+ {
+   "Season": 6,
+   "Overall #": 107,
+   "Episode #": 11,
+   "Title": "It's All Happening",
+   "Date": "2/19/2018",
+   "US Viewers (million)": "1.36",
+   "Ratings (IMDB)": "7.90"
+ },
+ {
+   "Season": 6,
+   "Overall #": 108,
+   "Episode #": 12,
+   "Title": "Wishful Sinking",
+   "Date": "2/26/2018",
+   "US Viewers (million)": "1.35",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 6,
+   "Overall #": 109,
+   "Episode #": 13,
+   "Title": "Vegas! Baby?",
+   "Date": "3/5/2018",
+   "US Viewers (million)": "1.30",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 6,
+   "Overall #": 110,
+   "Episode #": 14,
+   "Title": "Watch Your Back",
+   "Date": "3/12/2018",
+   "US Viewers (million)": "1.43",
+   "Ratings (IMDB)": "7.70"
+ },
+ {
+   "Season": 6,
+   "Overall #": 111,
+   "Episode #": 15,
+   "Title": "Nothing Here for Me",
+   "Date": "3/19/2018",
+   "US Viewers (million)": "1.50",
+   "Ratings (IMDB)": "7.70"
+ },
+ {
+   "Season": 6,
+   "Overall #": 112,
+   "Episode #": 16,
+   "Title": "SUR Going South",
+   "Date": "3/26/2018",
+   "US Viewers (million)": "1.36",
+   "Ratings (IMDB)": "7.10"
+ },
+ {
+   "Season": 6,
+   "Overall #": 113,
+   "Episode #": 17,
+   "Title": "The Smoking Gun",
+   "Date": "4/2/2018",
+   "US Viewers (million)": "1.49",
+   "Ratings (IMDB)": "7.10"
+ },
+ {
+   "Season": 6,
+   "Overall #": 114,
+   "Episode #": 18,
+   "Title": "Karma's a Bitch",
+   "Date": "4/9/2018",
+   "US Viewers (million)": "1.59",
+   "Ratings (IMDB)": "7.70"
+ },
+ {
+   "Season": 6,
+   "Overall #": 115,
+   "Episode #": 19,
+   "Title": "Reiki Breaky Heart",
+   "Date": "4/16/2018",
+   "US Viewers (million)": "1.59",
+   "Ratings (IMDB)": "7.70"
+ },
+ {
+   "Season": 6,
+   "Overall #": 116,
+   "Episode #": 20,
+   "Title": "Lost Cause",
+   "Date": "4/23/2018",
+   "US Viewers (million)": "1.44",
+   "Ratings (IMDB)": "6.80"
+ },
+ {
+   "Season": 6,
+   "Overall #": 117,
+   "Episode #": 21,
+   "Title": "Welcome to TomTom",
+   "Date": "4/30/2018",
+   "US Viewers (million)": "1.51",
+   "Ratings (IMDB)": "6.70"
+ },
+ {
+   "Season": 6,
+   "Overall #": 118,
+   "Episode #": 22,
+   "Title": "Reunion Part One",
+   "Date": "5/7/2018",
+   "US Viewers (million)": "1.58",
+   "Ratings (IMDB)": "8.40"
+ },
+ {
+   "Season": 6,
+   "Overall #": 119,
+   "Episode #": 23,
+   "Title": "Reunion Part Two",
+   "Date": "5/14/2018",
+   "US Viewers (million)": "1.46",
+   "Ratings (IMDB)": "7.00"
+ },
+ {
+   "Season": 6,
+   "Overall #": 120,
+   "Episode #": 24,
+   "Title": "Reunion Part Three",
+   "Date": "5/21/2018",
+   "US Viewers (million)": "1.37",
+   "Ratings (IMDB)": "7.10"
+ },
+ {
+   "Season": 6,
+   "Overall #": 121,
+   "Episode #": 25,
+   "Title": "Secrets Revealed",
+   "Date": "5/28/2018",
+   "US Viewers (million)": "0.75",
+   "Ratings (IMDB)": "7.10"
+ },
+ {
+   "Season": 7,
+   "Overall #": 122,
+   "Episode #": 1,
+   "Title": "A Decent Proposal",
+   "Date": "12/3/2018",
+   "US Viewers (million)": "1.25",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 7,
+   "Overall #": 123,
+   "Episode #": 2,
+   "Title": "Hope and Pride",
+   "Date": "12/10/2018",
+   "US Viewers (million)": "1.17",
+   "Ratings (IMDB)": "7.10"
+ },
+ {
+   "Season": 7,
+   "Overall #": 124,
+   "Episode #": 3,
+   "Title": "Either Him or Me",
+   "Date": "12/16/2018",
+   "US Viewers (million)": "1.27",
+   "Ratings (IMDB)": "6.90"
+ },
+ {
+   "Season": 7,
+   "Overall #": 125,
+   "Episode #": 4,
+   "Title": "Lisa's Dilemma",
+   "Date": "12/23/2018",
+   "US Viewers (million)": "1.08",
+   "Ratings (IMDB)": "7.10"
+ },
+ {
+   "Season": 7,
+   "Overall #": 126,
+   "Episode #": 5,
+   "Title": "Ice Queens",
+   "Date": "1/7/2019",
+   "US Viewers (million)": "1.30",
+   "Ratings (IMDB)": "8.10"
+ },
+ {
+   "Season": 7,
+   "Overall #": 127,
+   "Episode #": 6,
+   "Title": "Love Thy Mother",
+   "Date": "1/14/2019",
+   "US Viewers (million)": "1.10",
+   "Ratings (IMDB)": "7.80"
+ },
+ {
+   "Season": 7,
+   "Overall #": 128,
+   "Episode #": 7,
+   "Title": "Girls' Night In",
+   "Date": "1/21/2019",
+   "US Viewers (million)": "1.26",
+   "Ratings (IMDB)": "7.90"
+ },
+ {
+   "Season": 7,
+   "Overall #": 129,
+   "Episode #": 8,
+   "Title": "A Housewarming Divided",
+   "Date": "1/28/2019",
+   "US Viewers (million)": "1.35",
+   "Ratings (IMDB)": "7.80"
+ },
+ {
+   "Season": 7,
+   "Overall #": 130,
+   "Episode #": 9,
+   "Title": "Tom and Tommer",
+   "Date": "2/4/2019",
+   "US Viewers (million)": "1.22",
+   "Ratings (IMDB)": "7.70"
+ },
+ {
+   "Season": 7,
+   "Overall #": 131,
+   "Episode #": 10,
+   "Title": "So Vain in Solvang",
+   "Date": "2/11/2019",
+   "US Viewers (million)": "1.15",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 7,
+   "Overall #": 132,
+   "Episode #": 11,
+   "Title": "Return of Crazy Kristen",
+   "Date": "2/18/2019",
+   "US Viewers (million)": "1.11",
+   "Ratings (IMDB)": "7.50"
+ },
+ {
+   "Season": 7,
+   "Overall #": 133,
+   "Episode #": 12,
+   "Title": "PJs on the PJ",
+   "Date": "2/25/2019",
+   "US Viewers (million)": "1.17",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 7,
+   "Overall #": 134,
+   "Episode #": 13,
+   "Title": "Reptilian Brain",
+   "Date": "3/4/2019",
+   "US Viewers (million)": "1.20",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 7,
+   "Overall #": 135,
+   "Episode #": 14,
+   "Title": "Tom vs. Tom",
+   "Date": "3/11/2019",
+   "US Viewers (million)": "1.17",
+   "Ratings (IMDB)": "7.30"
+ },
+ {
+   "Season": 7,
+   "Overall #": 136,
+   "Episode #": 15,
+   "Title": "Trouble in Lala-land",
+   "Date": "3/18/2019",
+   "US Viewers (million)": "1.26",
+   "Ratings (IMDB)": "7.50"
+ },
+ {
+   "Season": 7,
+   "Overall #": 137,
+   "Episode #": 16,
+   "Title": "I Don't Like the Sound of Your Voice",
+   "Date": "3/25/2019",
+   "US Viewers (million)": "1.23",
+   "Ratings (IMDB)": "7.40"
+ },
+ {
+   "Season": 7,
+   "Overall #": 138,
+   "Episode #": 17,
+   "Title": "FOMO in Mexico",
+   "Date": "4/1/2019",
+   "US Viewers (million)": "1.36",
+   "Ratings (IMDB)": "8.00"
+ },
+ {
+   "Season": 7,
+   "Overall #": 139,
+   "Episode #": 18,
+   "Title": "End of an Era",
+   "Date": "4/8/2019",
+   "US Viewers (million)": "1.46",
+   "Ratings (IMDB)": "7.50"
+ },
+ {
+   "Season": 7,
+   "Overall #": 140,
+   "Episode #": 19,
+   "Title": "The Exorcism of Stassi Schroeder",
+   "Date": "4/15/2019",
+   "US Viewers (million)": "1.31",
+   "Ratings (IMDB)": "6.80"
+ },
+ {
+   "Season": 7,
+   "Overall #": 141,
+   "Episode #": 20,
+   "Title": "Britanny and the Beast",
+   "Date": "4/22/2019",
+   "US Viewers (million)": "1.33",
+   "Ratings (IMDB)": "7.80"
+ },
+ {
+   "Season": 7,
+   "Overall #": 142,
+   "Episode #": 21,
+   "Title": "Rules of Engagement",
+   "Date": "4/29/2019",
+   "US Viewers (million)": "1.39",
+   "Ratings (IMDB)": "7.80"
+ },
+ {
+   "Season": 7,
+   "Overall #": 143,
+   "Episode #": 22,
+   "Title": "Reunion Part 1",
+   "Date": "5/6/2019",
+   "US Viewers (million)": "1.87",
+   "Ratings (IMDB)": "7.30"
+ },
+ {
+   "Season": 7,
+   "Overall #": 144,
+   "Episode #": 23,
+   "Title": "Reunion Part 2",
+   "Date": "5/13/2019",
+   "US Viewers (million)": "1.34",
+   "Ratings (IMDB)": "6.70"
+ },
+ {
+   "Season": 7,
+   "Overall #": 145,
+   "Episode #": 24,
+   "Title": "Reunion Part 3",
+   "Date": "5/20/2019",
+   "US Viewers (million)": "1.32",
+   "Ratings (IMDB)": "5.50"
+ },
+ {
+   "Season": 8,
+   "Overall #": 146,
+   "Episode #": 1,
+   "Title": "There Goes the Neighborhood",
+   "Date": "1/7/2020",
+   "US Viewers (million)": "1.27",
+   "Ratings (IMDB)": "6.10"
+ },
+ {
+   "Season": 8,
+   "Overall #": 147,
+   "Episode #": 2,
+   "Title": "Training Days",
+   "Date": "1/14/2020",
+   "US Viewers (million)": "1.05",
+   "Ratings (IMDB)": "6.20"
+ },
+ {
+   "Season": 8,
+   "Overall #": 148,
+   "Episode #": 3,
+   "Title": "Next Level Rage Texts",
+   "Date": "1/21/2020",
+   "US Viewers (million)": "1.05",
+   "Ratings (IMDB)": "6.60"
+ },
+ {
+   "Season": 8,
+   "Overall #": 149,
+   "Episode #": 4,
+   "Title": "Don't Do It, Brittany",
+   "Date": "1/28/2020",
+   "US Viewers (million)": "1.19",
+   "Ratings (IMDB)": "7.10"
+ },
+ {
+   "Season": 8,
+   "Overall #": 150,
+   "Episode #": 5,
+   "Title": "Grumpy Old Men",
+   "Date": "2/4/2020",
+   "US Viewers (million)": "1.09",
+   "Ratings (IMDB)": "7.00"
+ },
+ {
+   "Season": 8,
+   "Overall #": 151,
+   "Episode #": 6,
+   "Title": "Your Pride's Showing",
+   "Date": "2/11/2020",
+   "US Viewers (million)": "1.06",
+   "Ratings (IMDB)": "7.2"
+ },
+ {
+   "Season": 8,
+   "Overall #": 152,
+   "Episode #": 7,
+   "Title": "It's Not About the Pastor",
+   "Date": "2/18/2020",
+   "US Viewers (million)": "1.05",
+   "Ratings (IMDB)": "6.80"
+ },
+ {
+   "Season": 8,
+   "Overall #": 153,
+   "Episode #": 8,
+   "Title": "Ex-Best Man, Ex-Best Friend",
+   "Date": "2/25/2020",
+   "US Viewers (million)": "1.08",
+   "Ratings (IMDB)": "7.50"
+ },
+ {
+   "Season": 8,
+   "Overall #": 154,
+   "Episode #": 9,
+   "Title": "If You're Going to Drink, I Can't Stop You",
+   "Date": "3/3/2020",
+   "US Viewers (million)": "1.16",
+   "Ratings (IMDB)": "7.50"
+ },
+ {
+   "Season": 8,
+   "Overall #": 155,
+   "Episode #": 10,
+   "Title": "Jax's Last Hurrah",
+   "Date": "3/10/2020",
+   "US Viewers (million)": "1.07",
+   "Ratings (IMDB)": "7.70"
+ },
+ {
+   "Season": 8,
+   "Overall #": 156,
+   "Episode #": 11,
+   "Title": "Introducing Mr. & Mrs. Cauchi",
+   "Date": "3/17/2020",
+   "US Viewers (million)": "1.20",
+   "Ratings (IMDB)": "7.80"
+ },
+ {
+   "Season": 8,
+   "Overall #": 157,
+   "Episode #": 12,
+   "Title": "All Daugs Go to Heaven",
+   "Date": "3/24/2020",
+   "US Viewers (million)": "1.22",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 8,
+   "Overall #": 158,
+   "Episode #": 13,
+   "Title": "Prank Wars",
+   "Date": "3/31/2020",
+   "US Viewers (million)": "1.16",
+   "Ratings (IMDB)": "6.80"
+ },
+ {
+   "Season": 8,
+   "Overall #": 159,
+   "Episode #": 14,
+   "Title": "Shame Hangover",
+   "Date": "4/7/2020",
+   "US Viewers (million)": "1.23",
+   "Ratings (IMDB)": "6.70"
+ },
+ {
+   "Season": 8,
+   "Overall #": 160,
+   "Episode #": 15,
+   "Title": "Mr. & Mrs. Schwartz, Take Two",
+   "Date": "4/14/2020",
+   "US Viewers (million)": "1.26",
+   "Ratings (IMDB)": "7.00"
+ },
+ {
+   "Season": 8,
+   "Overall #": 161,
+   "Episode #": 16,
+   "Title": "Witches of Weho Wine",
+   "Date": "4/21/2020",
+   "US Viewers (million)": "1.27",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 8,
+   "Overall #": 162,
+   "Episode #": 17,
+   "Title": "Til Death Do Us Not Part",
+   "Date": "4/28/2020",
+   "US Viewers (million)": "1.35",
+   "Ratings (IMDB)": "7.60"
+ },
+ {
+   "Season": 8,
+   "Overall #": 163,
+   "Episode #": 18,
+   "Title": "Mercury's in Gatorade",
+   "Date": "5/5/2020",
+   "US Viewers (million)": "1.16",
+   "Ratings (IMDB)": "7.20"
+ },
+ {
+   "Season": 8,
+   "Overall #": 164,
+   "Episode #": 19,
+   "Title": "A Tale of Two Pool Parties",
+   "Date": "5/12/2020",
+   "US Viewers (million)": "1.32",
+   "Ratings (IMDB)": "NA"
+ },
+ {
+   "Season": 8,
+   "Overall #": 165,
+   "Episode #": 20,
+   "Title": "Unfriended",
+   "Date": "5/19/2020",
+   "US Viewers (million)": "TBD",
+   "Ratings (IMDB)": "NA"
+ },
+ {
+   "Season": 8,
+   "Overall #": 166,
+   "Episode #": 21,
+   "Title": "Secrets Revealed",
+   "Date": "5/26/2020",
+   "US Viewers (million)": "TBD",
+   "Ratings (IMDB)": "NA"
+ },
+ {
+   "Season": 8,
+   "Overall #": 167,
+   "Episode #": 22,
+   "Title": "Reunion Part 1",
+   "Date": "6/2/2020",
+   "US Viewers (million)": "TBD",
+   "Ratings (IMDB)": "NA"
+ }
+]
